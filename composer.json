@@ -1,0 +1,15 @@
+{
+    "name": "xround2303/composer-test-package",
+    "authors": [
+        {
+            "name": "Xround2303",
+            "email": "xround2303@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.2.0"
+    },
+    "autoload": {
+        "classmap": ["src"]
+    }
+}
